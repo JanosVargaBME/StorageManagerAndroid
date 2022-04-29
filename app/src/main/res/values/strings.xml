@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StorageManager</string>
+    <string name="read_qr">Read QR</string>
+    <string name="stringItemName">Name:</string>
+    <string name="stringItemPlace">Place:</string>
+    <string name="stringItemYear">Year:</string>
+    <string name="stringItemCode">Code:</string>
+    <string name="stringItemDesc">Desc:</string>
+    <string name="stringItemPrice">Price:</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnBack">Back</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnTextUpdate">Update!</string>
+    <string name="btnTextCreate">Create!</string>
+    <string name="permNotGranted">CAMERA perm NOT granted</string>
+    <string name="warningToFill">Must fill Name and Place!</string>
+    <string name="successCreated">Created successfully!</string>
+    <string name="successUpdate">Updated successfully!</string>
+    <string name="new_item_title">New Item</string>
+</resources>
